@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Zendar coding challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was the coding challenge that I was asked to do live in less than an hour with React, minimal CSS, and logic, while talking about what I was doing as the CEO and a senior engineer watched. 
 
 ## Available Scripts
 
